@@ -1,8 +1,14 @@
 # Olá, eu sou Nicole Fernanda 👋
 
 ## 👨‍💻 Sobre mim
-
-Atualmente trabalhando na **Bosch** como **Jovem Aprendiz em Soluções Digitais**. Comecei minha jornada na área de TI com o **Curso Técnico em TI Integrado ao Ensino Médio** e, atualmente, continuo meus estudos no **Senai** em **Desenvolvimento de Sistemas (DS)**. 
+- Tenho 17 anos
+- Me chamo Nicole Fernanda dos Santos Baschiera
+> Atualmente trabalhando na **Bosch** como
+> **Jovem Aprendiz em Soluções Digitais**.
+> Comecei minha jornada na área de TI com o
+> **Curso Técnico em TI Integrado ao Ensino Médio** e,
+> atualmente, continuo meus estudos no **Senai**
+>  em **Desenvolvimento de Sistemas (DS)**. 
 
 ## 🔧 Habilidades
 
