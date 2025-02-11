@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Nicole Fernanda 👋
 
-<!--
-**NandaLuX/NandaLuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Atualmente trabalhando na **Bosch** como **Jovem Aprendiz em Soluções Digitais**. Comecei minha jornada na área de TI com o **Curso Técnico em TI Integrado ao Ensino Médio** e, atualmente, continuo meus estudos no **Senai** em **Desenvolvimento de Sistemas (DS)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades
+
+- **Linguagens de Programação**: Python, JavaScript, PHP, SQL
+- **Frameworks e Ferramentas**: Django, Git, HTML e CSS
+- **Bancos de Dados**: MySQL
+
+## 💼 Experiência
+
+### Bosch – Jovem Aprendiz em DS
+*Jan 2025 – Presente*
+
+### Senai – Desenvolvimento de Sistemas
+*Jan 2025 – Presente*
+
+## 📫 Como me encontrar
+
+- LinkedIn: (https://www.linkedin.com/in/nicole-fernanda-dos-santos-baschiera-13695b350/)
+- Email: (nickbasc@gmail.com)
+
+
+## 📚 Curiosidades
+
+- 🏀 Gosto de esportes
+- 🎻 Tocar ukulele 
+- 𝄞  Cantar 
