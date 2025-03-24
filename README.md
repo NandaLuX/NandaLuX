@@ -27,12 +27,21 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="DART"/></code>
 </p>
 
+## 📖 Formação Acadêmica
+
+### UNASP – HT
+*2012 – 2024*
+
+[<img align="left" height="94px" width="94px" alt="Bosch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMrP_jB9XMxix9PXdU3HsR6c4OriXpL6dAXz6ZYfXM7HCHx9du4ukzeOzOlinsbVBXmY&usqp=CAU"/>](https://www.senai.com/)
+
+**Curso TI integrado ao Ensino Médio** \
+[**UNASP**](https://unasp.br/) • Part-time \
+<br/>
+
+
 ## 💼 Experiência
 
 ### Bosch – Jovem Aprendiz em DS
-*Jan 2025 – Presente*
-
-### Senai – Desenvolvimento de Sistemas
 *Jan 2025 – Presente*
 
 [<img align="left" height="94px" width="94px" alt="Bosch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1mujf2VEwOTPl7dZmGHq6DIzrdKW_qVzbA&s"/>](https://www.bosch.com/)
@@ -41,6 +50,10 @@
 [**Bosch**](https://www.Bosch.com/) • Part-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`\
 <br/>
+
+### Senai – Desenvolvimento de Sistemas
+*Jan 2025 – Presente*
+
 [<img align="left" height="94px" width="94px" alt="Bosch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMrP_jB9XMxix9PXdU3HsR6c4OriXpL6dAXz6ZYfXM7HCHx9du4ukzeOzOlinsbVBXmY&usqp=CAU"/>](https://www.senai.com/)
 
 **Desenvolvimento de Sistemas** \
