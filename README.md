@@ -32,11 +32,11 @@
 ### UNASP – HT
 *2012 – 2024*
 
-[<img align="left" height="94px" width="94px" alt="Bosch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMrP_jB9XMxix9PXdU3HsR6c4OriXpL6dAXz6ZYfXM7HCHx9du4ukzeOzOlinsbVBXmY&usqp=CAU"/>](https://www.senai.com/)
+[<img align="left" height="94px" width="94px" alt="Bosch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5yFmevRYrm5jfq2SGxdKrE5wTMRMCS_Ec9pxtOpqyhANzjiTOxX-Jpm0VwaO8vBUGcY&usqp=CAU"/>](https://www.senai.com/)
 
 **Curso TI integrado ao Ensino Médio** \
 [**UNASP**](https://unasp.br/) • Part-time \
-<br/>
+<br/><br/><br/>
 
 
 ## 💼 Experiência
